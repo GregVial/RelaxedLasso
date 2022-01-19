@@ -3,7 +3,7 @@
 [![codecov](https://codecov.io/gh/continental/RelaxedLasso/branch/master/graph/badge.svg)](https://codecov.io/gh/continental/RelaxedLasso)
 [![Documentation Status](https://readthedocs.org/projects/relaxedlasso/badge/?version=latest)](https://relaxedlasso.readthedocs.io/en/latest/?badge=latest)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-[![Generic badge](https://img.shields.io/badge/Version-1.0.0-orange.svg)](CHANGELOG.md)
+[![Generic badge](https://img.shields.io/badge/Version-1.0.1-orange.svg)](CHANGELOG.md)
 
 # Relaxed Lasso
 
@@ -146,7 +146,9 @@ For more, see [examples](./examples).
 See [CHANGELOG.md](./CHANGELOG.md).
 
 ## Contributing
-Main point of contact and current maintainer of this repository at Continental is [Julien Cohen Solal](https://github.com/juliencohensolal).
+This repository was orginally developped and maintained by Continental. As of end 2021, Continental has decided to no longer support the project.
+
+The project is now maintained by [Gregory Vial](https://github.com/GregVial).
 
 This implementation was originally written by 
 [Gregory Vial](https://github.com/GregVial)
